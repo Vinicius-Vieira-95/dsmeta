@@ -1,5 +1,5 @@
-import Hearder from "./componentes/Header"
-import SalesCard from "./componentes/SalesCard"
+import Hearder from "./componentes/Header";
+import SalesCard from "./componentes/SalesCard";
 
 function App() {
 
@@ -14,7 +14,7 @@ function App() {
         </section>
       </main>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

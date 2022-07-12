@@ -13,7 +13,7 @@ function Hearder() {
                 </p>
             </div>
         </header>
-    )
+    );
 }
 
 export default Hearder;
