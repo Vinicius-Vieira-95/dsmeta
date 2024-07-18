@@ -12,7 +12,7 @@ Nela mostramos uma tabela de vendedores com as suas respectivas vendas de acordo
 
 ## Layout web
 
-![Web 1](https://github.com/Vinicius-Vieira-95/imagens-figuras/blob/tree/main/projeto-uml/projeto-uml.png)
+![Web 1](https://github.com/Vinicius-Vieira-95/imagens-figuras/blob/main/dsMeta/dsmeta.png)
 
 
 # Tecnologias utilizadas
